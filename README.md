@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+- 🤔 Suck at math
+- ⚡ Learning to code
+- 🌱 Working on exciting projects
 <!--
 **Bozhidar003/Bozhidar003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
